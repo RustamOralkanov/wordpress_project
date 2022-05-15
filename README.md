@@ -1,3 +1,3 @@
 # wordpress_project
 
-Instructions
+Instructions for beginners
